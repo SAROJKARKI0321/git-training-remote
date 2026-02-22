@@ -1,4 +1,2 @@
 This is my starting file for learning Git.
 Added few config settings.
-Login UI coming soon.
-
