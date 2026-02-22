@@ -1,1 +1,3 @@
 Login feature implementation notes.
+Upadated some filter chains.
+added cors registry.

@@ -1,1 +1,2 @@
 This is my starting file for learning Git.
+Added few config settings.
